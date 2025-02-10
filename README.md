@@ -14,5 +14,4 @@ Esta aplicación te permite:
 - Seleccionar un nombre diferente cada vez.
 
 <h2>Interactuando con la aplicación</h2>
-1. Copiar el repositorio o descargar los archivos fuente del programa.
-2. Asegúrate de tener las librerías necesarias en tu entorno de desarrollo. Puedes añadirlas a tu proyecto mediante un gestor de dependencias o agregarlas manualmente.
+- Copiar el repositorio o descargar los archivos fuente del programa.
