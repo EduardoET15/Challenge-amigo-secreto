@@ -4,7 +4,7 @@
 El challenge del "Amigo Secreto", se establece como un primer desafío JavaScript perneciente a Alura; permite de manera general al usuario introducir diferentes nombres
 para posteriormnete seleccionar uno al azar de entre la lista de nombres ingresados.
 
-<h3>Caracteristicas</h3>
+<h2>Caracteristicas</h2>
 Esta aplicación te permite:
 
 - Ingresar al usuario diferentes nombres.
@@ -12,3 +12,5 @@ Esta aplicación te permite:
 - Seleccionar de entre ellos uno al azar cada ves que se selecciona el botón "sortear".
 - Visualizar el nombre elegido.
 - Seleccionar un nombre diferente cada vez.
+
+<h2>Interactuando con la aplicación</h2>
